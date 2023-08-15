@@ -1,10 +1,10 @@
-#6067882954:AAFO86WP_fdXNCTmgNqUJ7AmN7N3AW5PKfI
+#6028682617:AAEbvFCr_2xIRY8VSR2zNYIjWUAPkk8I9qQ
 
 import telebot 
 import subprocess 
 
 # Initialize the bot with your Telegram API token 
-bot = telebot.TeleBot("6067882954:AAFO86WP_fdXNCTmgNqUJ7AmN7N3AW5PKfI") 
+bot = telebot.TeleBot("6028682617:AAEbvFCr_2xIRY8VSR2zNYIjWUAPkk8I9qQ") telebot.TeleBot("6028682617:AAEbvFCr_2xIRY8VSR2zNYIjWUAPkk8I9qQ")
 
 # Define the welcome message 
 welcome_message = 'Welcome to the Cmd Bot!' 
